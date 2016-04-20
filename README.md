@@ -41,8 +41,7 @@ Note that calculating sift descriptors and building a visual codebook requires t
 
 ## Folder structure of data ROOT_FOLDER
 
-Here is the structure of the data folder that was used during the experiments. All current paths in all scripts
-currently are aimed at supporting this structure.
+Here is the structure of the data folder that was used during the experiments. All current paths in all scripts are currently aimed at supporting this structure.
 
 ```
 /
