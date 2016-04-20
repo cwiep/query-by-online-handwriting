@@ -44,7 +44,7 @@ Note that calculating sift descriptors and building a visual codebook requires t
 Here is the structure of the data folder that was used during the experiments. All current paths in all scripts
 currently are aimed at supporting this structure.
 
-
+```
 /
 
 --/gw_ls12           George Washington dataset
@@ -77,6 +77,7 @@ currently are aimed at supporting this structure.
 -----------/writer2 
             ...
 -----/raw            writer folders from Unipen subset
+```
 
 ## License
 
